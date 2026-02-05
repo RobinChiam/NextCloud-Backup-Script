@@ -1,6 +1,6 @@
 # Backup Script Installation
 
-## On Nextcloud VM (10.0.0.3)
+## On Nextcloud VM
 1. `mkdir /opt/scripts`
 2. `sudo nano /opt/scripts/nextcloud_backup.sh`
 3. `chmod +x /opt/scripts/nextcloud_backup.sh`
